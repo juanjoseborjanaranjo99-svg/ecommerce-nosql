@@ -35,7 +35,7 @@ El archivo `sample_events.jsonl` contiene una mezcla realista de estos tres tipo
 ## Dataset de origen
 
 Este proyecto utiliza el dataset **Brazilian E-Commerce Public Dataset by Olist**, disponible en Kaggle:  
-👉 [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+ [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
